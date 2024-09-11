@@ -1,0 +1,145 @@
+
+
+======= ADMIN REQUEST =======
+[LOG DATE: 08/09/2024 4:33:17 pm - Server time zone UTC]
+[WPEditorAjax.php - line 129] just wrote to /home/egyptmor/domains/naegypt.org/public_html/wp-content/themes/NA2/style.css
+
+======= ADMIN REQUEST =======
+[LOG DATE: 08/09/2024 4:34:22 pm - Server time zone UTC]
+[WPEditorAjax.php - line 129] just wrote to /home/egyptmor/domains/naegypt.org/public_html/wp-content/themes/NA2/ltr.css
+
+======= ADMIN REQUEST =======
+[LOG DATE: 08/18/2024 3:02:54 am - Server time zone UTC]
+[WPEditorAjax.php - line 129] just wrote to /home/egyptmor/domains/naegypt.org/public_html/wp-content/themes/NA2/homepage.php
+
+======= ADMIN REQUEST =======
+[LOG DATE: 08/18/2024 3:03:42 am - Server time zone UTC]
+[WPEditorAjax.php - line 129] just wrote to /home/egyptmor/domains/naegypt.org/public_html/wp-content/themes/NA2/homepage.php
+
+======= ADMIN REQUEST =======
+[LOG DATE: 08/18/2024 3:04:17 am - Server time zone UTC]
+[WPEditorAjax.php - line 129] just wrote to /home/egyptmor/domains/naegypt.org/public_html/wp-content/themes/NA2/homepage.php
+
+======= ADMIN REQUEST =======
+[LOG DATE: 08/18/2024 3:04:37 am - Server time zone UTC]
+[WPEditorAjax.php - line 129] just wrote to /home/egyptmor/domains/naegypt.org/public_html/wp-content/themes/NA2/homepage.php
+
+======= ADMIN REQUEST =======
+[LOG DATE: 08/18/2024 3:06:44 am - Server time zone UTC]
+[WPEditorAjax.php - line 129] just wrote to /home/egyptmor/domains/naegypt.org/public_html/wp-content/themes/NA2/homepage.php
+
+======= ADMIN REQUEST =======
+[LOG DATE: 08/18/2024 3:06:55 am - Server time zone UTC]
+[WPEditorAjax.php - line 129] just wrote to /home/egyptmor/domains/naegypt.org/public_html/wp-content/themes/NA2/homepage.php
+
+======= ADMIN REQUEST =======
+[LOG DATE: 08/18/2024 3:13:50 am - Server time zone UTC]
+[WPEditorAjax.php - line 129] just wrote to /home/egyptmor/domains/naegypt.org/public_html/wp-content/themes/NA2/homepage.php
+
+======= ADMIN REQUEST =======
+[LOG DATE: 08/18/2024 3:18:51 am - Server time zone UTC]
+[WPEditorAjax.php - line 129] just wrote to /home/egyptmor/domains/naegypt.org/public_html/wp-content/themes/NA2/homepage.php
+
+======= ADMIN REQUEST =======
+[LOG DATE: 08/18/2024 3:19:56 am - Server time zone UTC]
+[WPEditorAjax.php - line 129] just wrote to /home/egyptmor/domains/naegypt.org/public_html/wp-content/themes/NA2/homepage.php
+
+======= ADMIN REQUEST =======
+[LOG DATE: 08/18/2024 3:20:45 am - Server time zone UTC]
+[WPEditorAjax.php - line 129] just wrote to /home/egyptmor/domains/naegypt.org/public_html/wp-content/themes/NA2/homepage.php
+
+======= ADMIN REQUEST =======
+[LOG DATE: 08/18/2024 3:23:19 am - Server time zone UTC]
+[WPEditorAjax.php - line 129] just wrote to /home/egyptmor/domains/naegypt.org/public_html/wp-content/themes/NA2/homepage.php
+
+======= ADMIN REQUEST =======
+[LOG DATE: 08/18/2024 3:24:28 am - Server time zone UTC]
+[WPEditorAjax.php - line 129] just wrote to /home/egyptmor/domains/naegypt.org/public_html/wp-content/themes/NA2/homepage.php
+
+======= ADMIN REQUEST =======
+[LOG DATE: 08/18/2024 3:25:08 am - Server time zone UTC]
+[WPEditorAjax.php - line 129] just wrote to /home/egyptmor/domains/naegypt.org/public_html/wp-content/themes/NA2/homepage.php
+
+======= ADMIN REQUEST =======
+[LOG DATE: 08/18/2024 3:31:58 am - Server time zone UTC]
+[WPEditorAjax.php - line 129] just wrote to /home/egyptmor/domains/naegypt.org/public_html/wp-content/themes/NA2/homepage.php
+
+======= ADMIN REQUEST =======
+[LOG DATE: 08/21/2024 1:51:37 pm - Server time zone UTC]
+[WPEditorAjax.php - line 129] just wrote to /home/egyptmor/domains/naegypt.org/public_html/wp-content/themes/NA2/homepage.php
+
+======= ADMIN REQUEST =======
+[LOG DATE: 08/21/2024 2:23:34 pm - Server time zone UTC]
+[WPEditorAjax.php - line 129] just wrote to /home/egyptmor/domains/naegypt.org/public_html/wp-content/themes/NA2/sidebar.php
+
+======= ADMIN REQUEST =======
+[LOG DATE: 08/21/2024 2:26:06 pm - Server time zone UTC]
+[WPEditorAjax.php - line 129] just wrote to /home/egyptmor/domains/naegypt.org/public_html/wp-content/themes/NA2/sidebar.php
+
+======= ADMIN REQUEST =======
+[LOG DATE: 08/21/2024 2:50:08 pm - Server time zone UTC]
+[WPEditorAjax.php - line 129] just wrote to /home/egyptmor/domains/naegypt.org/public_html/wp-content/themes/NA2/sidebar.php
+
+======= ADMIN REQUEST =======
+[LOG DATE: 08/21/2024 2:50:27 pm - Server time zone UTC]
+[WPEditorAjax.php - line 129] just wrote to /home/egyptmor/domains/naegypt.org/public_html/wp-content/themes/NA2/sidebar.php
+
+======= ADMIN REQUEST =======
+[LOG DATE: 08/21/2024 2:52:12 pm - Server time zone UTC]
+[WPEditorAjax.php - line 129] just wrote to /home/egyptmor/domains/naegypt.org/public_html/wp-content/themes/NA2/sidebar.php
+
+======= ADMIN REQUEST =======
+[LOG DATE: 08/21/2024 2:52:58 pm - Server time zone UTC]
+[WPEditorAjax.php - line 129] just wrote to /home/egyptmor/domains/naegypt.org/public_html/wp-content/themes/NA2/sidebar.php
+
+======= ADMIN REQUEST =======
+[LOG DATE: 08/21/2024 2:53:21 pm - Server time zone UTC]
+[WPEditorAjax.php - line 129] just wrote to /home/egyptmor/domains/naegypt.org/public_html/wp-content/themes/NA2/sidebar.php
+
+======= ADMIN REQUEST =======
+[LOG DATE: 08/24/2024 9:31:02 pm - Server time zone UTC]
+[WPEditorAjax.php - line 129] just wrote to /home/egyptmor/domains/naegypt.org/public_html/wp-content/themes/NA2/style.css
+
+======= ADMIN REQUEST =======
+[LOG DATE: 08/24/2024 9:31:28 pm - Server time zone UTC]
+[WPEditorAjax.php - line 129] just wrote to /home/egyptmor/domains/naegypt.org/public_html/wp-content/themes/NA2/ltr.css
+
+======= ADMIN REQUEST =======
+[LOG DATE: 08/25/2024 1:11:11 am - Server time zone UTC]
+[WPEditorAjax.php - line 129] just wrote to /home/egyptmor/domains/naegypt.org/public_html/wp-content/themes/NA2/style.css
+
+======= ADMIN REQUEST =======
+[LOG DATE: 08/25/2024 1:11:28 am - Server time zone UTC]
+[WPEditorAjax.php - line 129] just wrote to /home/egyptmor/domains/naegypt.org/public_html/wp-content/themes/NA2/ltr.css
+
+======= ADMIN REQUEST =======
+[LOG DATE: 08/25/2024 1:16:03 am - Server time zone UTC]
+[WPEditorAjax.php - line 129] just wrote to /home/egyptmor/domains/naegypt.org/public_html/wp-content/themes/NA2/style.css
+
+======= ADMIN REQUEST =======
+[LOG DATE: 08/25/2024 1:19:18 am - Server time zone UTC]
+[WPEditorAjax.php - line 129] just wrote to /home/egyptmor/domains/naegypt.org/public_html/wp-content/themes/NA2/style.css
+
+======= ADMIN REQUEST =======
+[LOG DATE: 08/25/2024 1:19:48 am - Server time zone UTC]
+[WPEditorAjax.php - line 129] just wrote to /home/egyptmor/domains/naegypt.org/public_html/wp-content/themes/NA2/style.css
+
+======= ADMIN REQUEST =======
+[LOG DATE: 08/25/2024 1:24:26 am - Server time zone UTC]
+[WPEditorAjax.php - line 129] just wrote to /home/egyptmor/domains/naegypt.org/public_html/wp-content/themes/NA2/style.css
+
+======= ADMIN REQUEST =======
+[LOG DATE: 08/25/2024 1:24:55 am - Server time zone UTC]
+[WPEditorAjax.php - line 129] just wrote to /home/egyptmor/domains/naegypt.org/public_html/wp-content/themes/NA2/style.css
+
+======= ADMIN REQUEST =======
+[LOG DATE: 08/25/2024 1:25:34 am - Server time zone UTC]
+[WPEditorAjax.php - line 129] just wrote to /home/egyptmor/domains/naegypt.org/public_html/wp-content/themes/NA2/ltr.css
+
+======= ADMIN REQUEST =======
+[LOG DATE: 08/25/2024 1:27:04 am - Server time zone UTC]
+[WPEditorAjax.php - line 129] just wrote to /home/egyptmor/domains/naegypt.org/public_html/wp-content/themes/NA2/ltr.css
+
+======= ADMIN REQUEST =======
+[LOG DATE: 08/25/2024 1:27:54 am - Server time zone UTC]
+[WPEditorAjax.php - line 129] just wrote to /home/egyptmor/domains/naegypt.org/public_html/wp-content/themes/NA2/ltr.css
